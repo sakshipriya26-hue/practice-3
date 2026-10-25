@@ -1,0 +1,45 @@
+.all {
+            text-align: center;
+        }
+
+    .summerp{
+          background-image:url(picnic.png);
+          background-repeat: no-repeat;
+          background-size: contain;
+          background-position: center;
+          background-attachment: fixed;
+          height: 100vh;
+          width:  100%;
+          overflow: hidden;
+
+         }
+        
+        .summer{
+            color:  #f48a03;
+            font-size: 90px;
+            margin-bottom: 0;
+        }
+        .picnic{
+            color: #00ffff;
+            font-size: 75px;
+            margin-top: 0;
+        }
+
+        .where{
+          color: #f48a03;
+          font-size: 40px;
+        }
+    
+        .para{
+          color: chocolate;
+          font-size: 40px;
+        }
+        date{
+            color: #ffffff;
+        }
+        .address{
+            color:#000
+        }
+        .email{
+            color: #000;
+        }

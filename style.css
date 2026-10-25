@@ -1,0 +1,60 @@
+body{
+
+    background-image: url("back.png");
+    margin:0;
+    font-family:Arial;
+    background-color: lightyellow;
+
+}
+section{
+    text-align: center;
+}
+
+nav{
+    display:flex;
+    justify-content: space-around;
+    align-items:center;
+    padding:30px;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+}
+.Explore{
+    background-color: rgb(7, 95, 95);
+    border-radius: 30px;
+    padding: 20px 30px;
+    font-size: 12px;
+    color: aliceblue;
+}
+.sakshi{
+    display: inline-block;
+    background-color: aliceblue;
+    border-radius:50px;
+    padding:10px;
+    text-decoration: none;
+    color: black;
+}
+
+h1{
+    text-align:center;
+    font-size:40px;
+    color:#010808;
+    text-align:center;
+    padding:10px;
+}
+.del{
+    background-color: #185355;
+    border-radius: 40px;
+    color:aliceblue;
+    padding: 12px 24px;
+    text-decoration: none;
+    font-size:12;
+}
+.tag{
+    background-color: aliceblue;
+    border-radius:40px;
+    padding:10px;
+    text-decoration: none;
+
+}
